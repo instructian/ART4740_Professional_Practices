@@ -27,3 +27,9 @@ Set up accounts on linked-in and connect to your team
 Search linked in for a highly successful person in your field and review their profile
 
 Create your one-page dream resume for the year 2027 for next Tuesday
+
+## Friday before 5:00PM
+Write your reflection blog entry for this week (150-300 words).
+
+## Before next Sesion
+Write a response to someone else's blog post (50 - 150 words).
