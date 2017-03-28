@@ -32,9 +32,9 @@ Final Portfolio Presentation  35%
 ```
 
 ## Required Textbook:
-** Breaking into Graphic Design **: Tips from the Pros on Finding the Right Position for You by Michael Jefferson (PDF Provided ISBN-10: 1581154216)  
+** [Breaking into Graphic Design](http://amzn.to/2nsbAoV) **: Tips from the Pros on Finding the Right Position for You by Michael Jefferson (PDF Provided ISBN-10: 1581154216)  Google play books is cheapest option.
 
-** StrengthsFinder 2.0 by Tom Rath **.  What you really want from this is the code from the book that lets you take the online personality test.  For this, you have to buy it new or purchase the test itself online.
+** [StrengthsFinder 2.0 by Tom Rath](https://www.gallupstrengthscenter.com/Purchase/en-US/Index/?utm_source=En_US&utm_medium=Ad&utm_campaign=SF2SiteAd) **.  What you really want from this is the code from the book that lets you take the online ** Top 5 Strengths ** personality test ($15.00).  For this, you have to buy it new or purchase the test itself online.
 
 ## Required Materials:
 Computer with appropriate software at home for design and production of resumes, letters, business cards, digital portfolios and website. You will be required to obtain your own domain and web hosting account external to the university to host your portfolio website by the portfolio deadline.
