@@ -2,11 +2,11 @@
 ## TUESDAY
 Introductions
 
-Buy books
+Buy books now
 
-Take strength test
+Take the online strength test and review the answers
 
-Read ch1-Interviews.pdf
+Read ch1-Interviews.pdf by Thursday
 
 ### Create your teams
 ```
