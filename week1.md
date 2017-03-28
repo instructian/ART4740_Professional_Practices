@@ -6,7 +6,7 @@ Buy books now
 
 Take the online strength test and review the answers
 
-Read ch1-Interviews.pdf by Thursday
+Read [ch1-Interviews.pdf](https://github.com/instructian/ART4740_Professional_Practices/blob/master/ch1-Interviews.pdf) by Thursday
 
 ### Create your teams
 ```
