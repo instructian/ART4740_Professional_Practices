@@ -1,6 +1,6 @@
 # Schedule
 
-## Week 1
+## Week 1 [read more...](week1.md)
 - Introductions
 - Syllabus
 - Books
