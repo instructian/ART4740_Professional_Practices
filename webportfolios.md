@@ -12,17 +12,29 @@ The most frequent question I get from students in my classes is “Are we really
 
 ## Samples
 [Ian Armstrong](http://ian.armstrongs.org/stories/etwater/)
+
 [OZAN TÜRBEDAROGLU-UX CONSULTANT & DESIGNER](http://www.ozan75.de)
+
 [Chad Mazzola](http://chad.is)
+
 [Bret Victor](http://worrydream.com)
+
 [Ali Adair](http://aliadair.co.uk/design-process/)
+
 [Lai Yee](http://www.laiyeeho.com)
+
 
 ## Collections
 [16 Best Examples of Portfolio Design Websites That Bring You Inspiration](https://www.mockplus.com/blog/post/portfolio-design-websites/?r=vincent-lj)
+
 [8 great examples of graphic design portfolios](http://www.creativebloq.com/inspiration/8-great-examples-of-graphic-design-portfolios)
+
 [50 brilliant design portfolios to inspire you](http://www.creativebloq.com/portfolios/examples-712368)
+
 [20 Stunning design portfolios you MUST see before (re)designing yours](http://millo.co/20-design-portfolios-you-must-see)
+
 [60 Clean and Simple Examples of Portfolio Design](https://onextrapixel.com/60-clean-and-simple-examples-of-portfolio-design/)
+
 [List of Top UX Design Portfolios](http://www.uxbeginner.com/top-ux-portfolios-list/)
+
 [10 UX portfolios done right](http://www.creativebloq.com/ux/product-portfolios-61412126)
