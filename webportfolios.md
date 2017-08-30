@@ -3,7 +3,8 @@
 
 
 ## Guides
-The most frequent question I get from students in my classes is “Are we really going to build a portfolio? What can we possibly put in it when we’ve never had any clients or been paid for work?”
+“Are we really going to build a portfolio? What can we possibly put in it when we’ve never had any clients or been paid for work?”
+
 [Need a Job? Add These 5 Pretend Projects to Your Portfolio](https://skillcrush.com/2014/08/11/portfolio-advice-2/)
 
 [How to build a beautiful web design portfolio, 09/02/2015](https://www.mockplus.com/blog/post/78-how-to-build-a-beautiful-web-design-portfolio/?r=vincent)
